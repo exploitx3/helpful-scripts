@@ -1,0 +1,15 @@
+{
+  "name": "mongodb-migrate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "livesync.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mongo-oplog": "^2.1.4",
+    "mongojs": "^2.6.0"
+  }
+}
